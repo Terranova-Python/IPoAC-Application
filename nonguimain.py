@@ -8,7 +8,7 @@
 input = input('Message: ')
 def encrypt_message(input):
     #input = T2.get("1.0",END) # This is the message string variable
-    print(f'MESSAGE: {input}TYPE: {type(input)}\nMESSAGE LENGTH: {len(input)}') # Info for you good sir
+    print(f'MESSAGE: {input}\nTYPE: {type(input)}\nMESSAGE LENGTH: {len(input)}') # Info for you good sir
 
     # ======= ADD ENCRYPTION OF SOME SORT AND OUTPUT TO A NEW VARIABLE. =========== 
     
